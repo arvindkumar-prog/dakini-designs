@@ -12,18 +12,18 @@
   font-size: 9.5rem;
   padding-top: 20px;
 
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Festive', cursive;
 }
 
 .jumbotron h3{
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Festive', cursive;
   font-size: 3.5rem;
   font-weight: bold;
 }
 
 .jumbotron h5{
   margin-top: 900px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Fuggles', cursive;
   font-size: 3rem;
   font-weight: bold;
 }
@@ -34,7 +34,7 @@
 }
 
 .nav-link{
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Fuggles', cursive;
 
 }
 
@@ -43,7 +43,7 @@
 }
 
 #About h1{
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Festive', cursive;
   font-weight: bold;
   font-size: 3rem;
 }
@@ -56,7 +56,7 @@
   background-color: #B5EAEA;
 }
 #three h1{
-  font-family: 'Montserrat', sans-serif;
+ font-family: 'Festive', cursive;
   font-weight: bold;
   font-size: 3.5rem;
   color: #fff;
@@ -64,6 +64,7 @@
 
 #three p{
   font-size: 2rem;
+  font-family: 'Fuggles', cursive;
 }
 #three{
   padding:7% 15%;
@@ -72,13 +73,14 @@
 }
 
 #four h1{
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Festive', cursive;
   font-weight: bold;
   font-size: 3.5rem;
   color: #0;
 }
 #four p{
   font-size: 2rem;
+  font-family: 'Fuggles', cursive;
 }
 
 #four{
@@ -88,7 +90,7 @@
 }
 
 #five h1{
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Festive', cursive;
   font-weight: bold;
   font-size: 3.5rem;
   color: #fff;
@@ -103,6 +105,7 @@
 #five p{
   color: #0;
   font-size: 2rem;
+  font-family: 'Fuggles', cursive;
 }
 
 #six{
@@ -115,11 +118,12 @@
 
 #six h5{
   font-weight: bold;
+  font-family: 'Fuggles', cursive;
 }
 
 
 #contact1 h1{
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Festive', cursive;
   font-weight: bold;
   font-size: 3rem;
   color: #fff;
@@ -135,7 +139,7 @@
   font-size: 1.5rem;
 }
 #contact2 h1{
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Festive', cursive;
   font-weight: bold;
   font-size: 3rem;
   color: #fff;
@@ -149,6 +153,7 @@
 #contact2 p{
   color: #fff;
   font-size: 1.5rem;
+  font-family: 'Fuggles', cursive;
 }
 
 .feature-box{
@@ -165,7 +170,7 @@
   color:  #171717;
 }
 p{
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Fuggles', cursive;
   color:#000000;
   font-weight: bold;
 }
@@ -178,7 +183,7 @@ p{
 #our{
   text-align: center;
   background-color: #F7D9D9;
-  font-family: 'Montserrat', sans-serif;
+  
 
 }
 
@@ -187,18 +192,20 @@ p{
   font-weight: bold;
   font-size: 3.5rem;
   color: #fff;
+  font-family: 'Festive', cursive;
 
 
 }
 #special p{
   padding: 0 30px 30px;
   font-size: 2rem;
+  font-family: 'Fuggles', cursive;
 }
 
 #special{
   text-align: center;
   background-color: #EEC4C4;
-  font-family: 'Montserrat', sans-serif;
+  
 
 }
 
@@ -207,6 +214,7 @@ p{
   font-weight: bold;
   font-size: 3.5rem;
   color: #92967D;
+  font-family: 'Festive', cursive;
 
 
 }
@@ -214,11 +222,12 @@ p{
   padding: 0 30px 20px;
   font-size: 2rem;
   color: #0;
+  font-family: 'Fuggles', cursive;
 }
 
 #one h1{
   text-align: center;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Festive', cursive;
   font-weight: bold;
 }
 
@@ -241,7 +250,7 @@ p{
 
 #two h1{
   text-align: center;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Festive', cursive;
   font-weight: bold;
 }
 
@@ -256,11 +265,12 @@ p{
 #fes{
   background-color: #F7D9D9;
   text-align: center;
-  font-family: 'Montserrat', sans-serif;
+  
 
 }
 #fes h1{
   font-weight: bold;
+  font-family: 'Festive', cursive;
 }
 
 .imgf{
