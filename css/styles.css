@@ -185,14 +185,14 @@ p{
 #our h1{
   padding:30px 20px 20px;
   font-weight: bold;
-  font-size: 3rem;
+  font-size: 3.5rem;
   color: #fff;
 
 
 }
 #special p{
   padding: 0 30px 30px;
-  font-size: 1rem;
+  font-size: 2rem;
 }
 
 #special{
@@ -205,14 +205,14 @@ p{
 #special h1{
   padding:30px 20px 20px;
   font-weight: bold;
-  font-size: 3rem;
+  font-size: 3.5rem;
   color: #92967D;
 
 
 }
 #special p{
   padding: 0 30px 20px;
-  font-size: 1rem;
+  font-size: 2rem;
   color: #0;
 }
 
@@ -226,6 +226,7 @@ p{
   padding: 5% 10%;
   text-align:center;
   font-family: 'Montserrat', sans-serif;
+  background-color: #F7D9D9;
 }
 
 .con{
@@ -248,10 +249,12 @@ p{
   padding: 5% 10%;
   text-align:center;
   font-family: 'Montserrat', sans-serif;
+  background-color: #EEC4C4;
 }
 
 
 #fes{
+  background-color: #F7D9D9;
   text-align: center;
   font-family: 'Montserrat', sans-serif;
 
