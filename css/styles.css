@@ -8,7 +8,7 @@
 }
 
 .jumbotron h1{
-  color: #E8F6EF;
+  color: #FF96AD;
   font-size: 9.5rem;
   padding-top: 20px;
   font-family: 'Lobster', cursive;
@@ -54,7 +54,7 @@
 
 #About{
   padding:7% 15%;
-  background-color: #F0D9E7;
+  background-color: #B5EAEA;
 }
 #three h1{
   font-family: 'Montserrat', sans-serif;
@@ -68,7 +68,7 @@
 }
 #three{
   padding:7% 15%;
-  background-color: #C490E4;
+  background-color: #EDF6E5;
   text-align: center;
 }
 
@@ -84,7 +84,7 @@
 
 #four{
   padding:7% 15%;
-  background-color: #AC66CC;
+  background-color: #FFBCBC;
   text-align: center;
 }
 
@@ -97,7 +97,7 @@
 
 #five{
   padding:7% 15%;
-  background-color: #C490E4;
+  background-color: #F38BAO;
   text-align: center;
 }
 
