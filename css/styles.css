@@ -22,9 +22,9 @@
 }
 
 .jumbotron h5{
-  margin-top: 720px;
+  margin-top: 900px;
   font-family: 'Montserrat', sans-serif;
-  font-size: 2rem;
+  font-size: 3rem;
   font-weight: bold;
 }
 
@@ -45,13 +45,16 @@
 #About h1{
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
-  font-size: 2rem;
+  font-size: 3rem;
 }
 
 #About{
   padding:7% 15%;
   background-color: #F8A1D1;
 }
+#About p{
+  font-size: 3rem;
+  
 #three h1{
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
