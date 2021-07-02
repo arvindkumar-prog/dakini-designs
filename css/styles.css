@@ -11,19 +11,20 @@
   color: #E8F6EF;
   font-size: 9.5rem;
   padding-top: 20px;
+  font-family: 'Lobster', cursive;
 
   
 }
 
 .jumbotron h3{
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Lobster', cursive;
   font-size: 3.5rem;
   font-weight: bold;
 }
 
 .jumbotron h5{
   margin-top: 900px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Lobster', cursive;
   font-size: 3rem;
   font-weight: bold;
 }
